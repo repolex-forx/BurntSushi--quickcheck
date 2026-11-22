@@ -1,0 +1,11 @@
+{
+  "org": "BurntSushi",
+  "repo": "quickcheck",
+  "versions": [
+    {
+      "commit": "458ca5c9a46a19a55a0be6d839cab17aeb216a3f",
+      "tag": "version.1",
+      "parsed_at": "2026-11-22T10:15:35.387972+00:00"
+    }
+  ]
+}
